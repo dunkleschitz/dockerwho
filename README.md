@@ -93,5 +93,5 @@ valid (tokens expire).
 - [x] Tests pass (25, hermetic — no docker daemon, no network, no helpers)
 - [x] Secrets scan: no credential values in code/tests/docs; tool never prints them
 - [x] History review: fresh local git repo
-- [ ] License: MIT (pending Godsby's approval)
-- [ ] Publication: pending Godsby's per-project approval
+- [x] License: MIT (see LICENSE)
+- [ ] Publication: pending maintainer's per-project approval
